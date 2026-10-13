@@ -1,0 +1,6 @@
+{
+  "name": "TrailKit Studio",
+  "description": "2D outdoor explorer character customizer, layered gear loadout designer, and trip equipment checklist builder with offline persistence and Arabic/English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
